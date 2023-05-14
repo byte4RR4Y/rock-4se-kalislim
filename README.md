@@ -1,7 +1,7 @@
 # rock-4se-kalislim
 # Kali Slim XFCE for Radxa Rock 4SE and other Rock Devices
 
-This is a minimal Kali Linux system with xfce installed. There are nor pentesting tools installed.
+This is a minimal Kali Linux system with pre-installed XFCE desktop. No pentesting tools are installed.
 
 ----------------
      kernel:____6.1.0
