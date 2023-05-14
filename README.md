@@ -12,7 +12,7 @@ This is a minimal Kali Linux system with pre-installed XFCE desktop. No pentesti
      password:__toor
 -----------------
 
-The image size is 6.6 GB and the system will grow root filesystem on first boot
+The image size is 6.6 GB and the system will grow root filesystem on first boot.
 This image is for everyone who wants to build an own kali system.
 
 SD-Card Image: <a href="https://drive.google.com/file/d/1BOyGpIJ7IipX4Q8jHgdS3suF2J1dSA4I/view?usp=sharing">kali-slim-xfce-2023-05-14.img.xz</a> (1.4 GB)
