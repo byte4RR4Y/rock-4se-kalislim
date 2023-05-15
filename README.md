@@ -1,7 +1,5 @@
 # rock-4se-kalislim
-# Kali Slim XFCE for Radxa Rock 4SE and other Rock Devices
-
-# PLEASE REPORT COMPATIBLE DEVICES IN DISCUSSIONS
+# Kali Slim XFCE for Radxa Rock 4SE
 
 This is a minimal Kali Linux system with pre-installed XFCE desktop. No pentesting tools are installed.
 
